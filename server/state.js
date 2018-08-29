@@ -5,6 +5,8 @@ export default {
   newOrders: 124,
   tickets: 13,
   taskItem: "Calendar updated",
+
+
   tasks: [{
     id: 1,
     task: "VDI",
@@ -46,6 +48,7 @@ export default {
     task: "Vendor Relations",
     date: "3/6/2017"
   }],
+
   messages: [{
     id: 1,
     name: "Lotti Huikerby",
